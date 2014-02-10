@@ -8,7 +8,7 @@ _before_ you start your project.
 
 This directory contains the source files that can be used to build the eBook
 from scratch.  You probably don't want that, so grab the latest built version
-from [http://github.com/neilmb/10statstips/releases/latest].
+from github.com/neilmb/10statstips/releases/latest.
 
 License
 -------
@@ -21,6 +21,6 @@ to modify the contents of the book for non-commercial purposes as long as you
 give appropriate credit to the author and make your modified version available
 under the same license terms.
 
-For more specifics, see [http://creativecommons.org/licenses/by-nc-sa/3.0/us].
+For more specifics, see creativecommons.org/licenses/by-nc-sa/3.0/us.
 
 
